@@ -1,1 +1,2 @@
-# -Instal-laci-de-panells-solars-fotovoltaics-en-un-habitatge-unifamiliar-a-Catalunya
+# practica_2
+Pràctiques de Mètodes Numèrics II: Pràctica de Simulació
