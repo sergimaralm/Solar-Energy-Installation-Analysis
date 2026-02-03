@@ -25,13 +25,6 @@ The analysis is implemented in **Python**, utilizing numerical methods to proces
 * **Data Sources:** PVGIS (Photovoltaic Geographical Information System) and local meteorological datasets.
 * **Physics applied:** Calculation of Peak Sun Hours (PSH) and current-voltage (I-V) characteristic curves.
 
-## Key Results
-
-* **Total Annual Generation:** Estimated ~X,XXX kWh/year.
-* **CO2 Savings:** Avoided emission of ~X.X tons of CO2 annually.
-* **Payback Period:** The estimated amortization of the initial investment is **X.X years** (based on 202X energy prices).
-
-*(See the `figures/` folder for detailed plots on monthly production and efficiency curves).*
 
 ## Usage
 
@@ -53,3 +46,4 @@ The analysis is implemented in **Python**, utilizing numerical methods to proces
 * **License:** Educational use only.
 ---
 *Maintained by Sergi Martínez Almansa*
+
