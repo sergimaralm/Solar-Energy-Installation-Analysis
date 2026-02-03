@@ -42,8 +42,8 @@ The analysis is implemented in **Python**, utilizing numerical methods to proces
 **Academic Project (UAB)**
 * **Context:** Developed as a practical assignment for the Numerics Methods course.
 * **Authors:** Developed in collaboration with classmates.
-* **My Contribution:** I focused on the [Menciona tu parte: ej. Python implementation of the irradiance model and economic data visualization].
 * **License:** Educational use only.
 ---
 *Maintained by Sergi Martínez Almansa*
+
 
